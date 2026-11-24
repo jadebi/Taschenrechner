@@ -1,5 +1,5 @@
 import unittest
-from main import addieren, multiplizieren, dividieren
+from main import addieren, subtraktion, multiplizieren, dividieren
 
         
 class test_taschenrechner(unittest.TestCase):
